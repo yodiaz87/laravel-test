@@ -21,4 +21,5 @@ This is a sample api with Laravel, it has authentication and authorization featu
 
 #### For testing the endpoints you should import the ```laravel.postman_collection.json``` file located in the root of the project.
 
+### Note:I exported the postman json for testing the api, if you need all the documentation generated I will use laravel-apidoc-generator.
 
