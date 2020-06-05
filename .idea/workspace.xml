@@ -310,29 +310,29 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="287" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591326805563" />
-    <state x="661" y="174" key="CommitChangelistDialog2" timestamp="1591368411033">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="434" y="127" key="CommitChangelistDialog2" timestamp="1591375821843">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="661" y="174" key="CommitChangelistDialog2/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1591368411033" />
-    <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1591335302461" />
+    <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1591375821843" />
     <state x="581" y="348" key="NewPhpClassDialog" timestamp="1591326775337">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="581" y="348" key="NewPhpClassDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591326775337" />
     <state x="581" y="363" key="NewPhpClassDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1591322165434" />
-    <state x="714" y="243" key="RollbackChangesDialog" timestamp="1591375800086">
+    <state x="714" y="243" key="RollbackChangesDialog" timestamp="1591375915439">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="714" y="243" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591375800086" />
+    <state x="714" y="243" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591375915439" />
     <state x="692" y="448" key="VCS.ChangelistChooser" timestamp="1591334910700">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="692" y="448" key="VCS.ChangelistChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1591334910700" />
-    <state x="670" y="363" key="Vcs.Push.Dialog.v2" timestamp="1591368412858">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1591375823805">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="670" y="363" key="Vcs.Push.Dialog.v2/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1591368412858" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591335304164" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591375823805" />
     <state x="1038" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591318331103">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

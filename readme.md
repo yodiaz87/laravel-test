@@ -10,6 +10,10 @@ This is a sample api with Laravel, it has authentication and authorization featu
 #### Installing the application:
 ```composer install```
 
+#### Running migrations :
+```php artisan migrate:fresh```
+
+
 #### Running the 100 users seeder :
 ```php artisan db:seed```
 
