@@ -13,6 +13,9 @@ This is a sample api with Laravel, it has authentication and authorization featu
 #### Running migrations :
 ```php artisan migrate:fresh```
 
+#### Install passport keys :
+```php artisan passport:install```
+
 
 #### Running the 100 users seeder :
 ```php artisan db:seed```
