@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb9f4dc3-4780-4a0a-8cf4-5f9da972f819" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,7 +219,7 @@
       <updated>1591315050658</updated>
       <workItem from="1591315052129" duration="571000" />
       <workItem from="1591315719228" duration="1907000" />
-      <workItem from="1591318326913" duration="16507000" />
+      <workItem from="1591318326913" duration="17136000" />
     </task>
     <task id="LOCAL-00001" summary="-generated login and auth page.">
       <created>1591317583625</created>
@@ -271,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591368208808</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="-fixing markdown">
+      <created>1591368411141</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591368411141</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +290,8 @@
     <MESSAGE value="-add data seeders" />
     <MESSAGE value="-finished requirements" />
     <MESSAGE value="-added some documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="-added some documentation" />
+    <MESSAGE value="-fixing markdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="-fixing markdown" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591320075937">
@@ -303,24 +310,28 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="287" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591326805563" />
-    <state x="661" y="174" key="CommitChangelistDialog2" timestamp="1591368208676">
+    <state x="661" y="174" key="CommitChangelistDialog2" timestamp="1591368411033">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="661" y="174" key="CommitChangelistDialog2/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1591368208676" />
+    <state x="661" y="174" key="CommitChangelistDialog2/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1591368411033" />
     <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1591335302461" />
     <state x="581" y="348" key="NewPhpClassDialog" timestamp="1591326775337">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="581" y="348" key="NewPhpClassDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591326775337" />
     <state x="581" y="363" key="NewPhpClassDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1591322165434" />
+    <state x="714" y="243" key="RollbackChangesDialog" timestamp="1591375800086">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="714" y="243" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591375800086" />
     <state x="692" y="448" key="VCS.ChangelistChooser" timestamp="1591334910700">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="692" y="448" key="VCS.ChangelistChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1591334910700" />
-    <state x="670" y="363" key="Vcs.Push.Dialog.v2" timestamp="1591368211059">
+    <state x="670" y="363" key="Vcs.Push.Dialog.v2" timestamp="1591368412858">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="670" y="363" key="Vcs.Push.Dialog.v2/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1591368211059" />
+    <state x="670" y="363" key="Vcs.Push.Dialog.v2/-2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1591368412858" />
     <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591335304164" />
     <state x="1038" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591318331103">
       <screen x="0" y="23" width="1680" height="1027" />
