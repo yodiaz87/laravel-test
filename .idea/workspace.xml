@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="cb9f4dc3-4780-4a0a-8cf4-5f9da972f819" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ApiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ApiController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/NotificationsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/NotificationsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Notification.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Notification.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +216,7 @@
       <updated>1591315050658</updated>
       <workItem from="1591315052129" duration="571000" />
       <workItem from="1591315719228" duration="1907000" />
-      <workItem from="1591318326913" duration="13256000" />
+      <workItem from="1591318326913" duration="16246000" />
     </task>
     <task id="LOCAL-00001" summary="-generated login and auth page.">
       <created>1591317583625</created>
@@ -247,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591334928700</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="-finished requirements">
+      <created>1591335302584</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591335302584</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,10 +291,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="287" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591326805563" />
-    <state x="434" y="127" key="CommitChangelistDialog2" timestamp="1591335295948">
+    <state x="434" y="127" key="CommitChangelistDialog2" timestamp="1591335302461">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1591335295948" />
+    <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1591335302461" />
     <state x="581" y="348" key="NewPhpClassDialog" timestamp="1591326775337">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -291,10 +304,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="692" y="448" key="VCS.ChangelistChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1591334910700" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1591334930670">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1591335304164">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591334930670" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591335304164" />
     <state x="1038" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591318331103">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
