@@ -16,7 +16,8 @@ Route::group([
 
 Route::middleware('auth:api')->get('/githubUsers', 'ApiController@githubUsers');
 
-Route::middleware('auth:api')->get('/notificaions', 'NotificationsController@notifications');
-Route::middleware('auth:api')->post('/notificaions', 'NotificationsController@notifications');
-Route::middleware('auth:api')->put('/notificaions', 'NotificationsController@notifications');
-Route::middleware('auth:api')->delete('/notificaions', 'NotificationsController@notifications');
+Route::middleware('auth:api')->get('/notifications', 'NotificationsController@index');
+Route::middleware('auth:api')->get('/notifications/{notification}', 'NotificationsController@show');
+Route::middleware('auth:api')->post('/notifications', 'NotificationsController@save');
+Route::middleware('auth:api')->put('/notifications/{notification}', 'NotificationsController@update');
+Route::middleware('auth:api')->delete('/notifications/{notification}', 'NotificationsController@delete');
