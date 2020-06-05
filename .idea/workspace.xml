@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb9f4dc3-4780-4a0a-8cf4-5f9da972f819" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/ApiController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/verify.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +208,7 @@
       <updated>1591315050658</updated>
       <workItem from="1591315052129" duration="571000" />
       <workItem from="1591315719228" duration="1907000" />
-      <workItem from="1591318326913" duration="8682000" />
+      <workItem from="1591318326913" duration="8979000" />
     </task>
     <task id="LOCAL-00001" summary="-generated login and auth page.">
       <created>1591317583625</created>
@@ -238,7 +217,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591317583626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-created some endpoints">
+      <created>1591329233233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591329233233</updated>
+    </task>
+    <task id="LOCAL-00003" summary="-created seeders">
+      <created>1591329359977</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591329359977</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +239,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-generated login and auth page." />
-    <option name="LAST_COMMIT_MESSAGE" value="-generated login and auth page." />
+    <MESSAGE value="-created some endpoints" />
+    <MESSAGE value="-created seeders" />
+    <option name="LAST_COMMIT_MESSAGE" value="-created seeders" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591320075937">
@@ -261,19 +256,19 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="287" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591326805563" />
-    <state x="434" y="127" key="CommitChangelistDialog2" timestamp="1591329233019">
+    <state x="434" y="127" key="CommitChangelistDialog2" timestamp="1591329359864">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1591329233019" />
+    <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1591329359864" />
     <state x="581" y="348" key="NewPhpClassDialog" timestamp="1591326775337">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="581" y="348" key="NewPhpClassDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591326775337" />
     <state x="581" y="363" key="NewPhpClassDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1591322165434" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1591329235202">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1591329361789">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591329235202" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1591329361789" />
     <state x="1038" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591318331103">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
